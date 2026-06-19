@@ -17,8 +17,8 @@
   "servers": [
     {
       "name": "United Ukraine #1",
-      "ip": "188.127.241.8",
-      "port": 1493,
+      "ip": "188.127.241.74",
+      "port": 3959,
       "x2": false,
       "online": 0,
       "maxonline": 50
@@ -35,6 +35,17 @@
   ],
 
   "cache": {
+    "enabled": true,
+    "api_url": "https://6942f009858f5.xvest5.ru/brilliant-cdn/api.json",
+    "files_url": "https://6942f009858f5.xvest5.ru/brilliant-cdn/files"
+  },
+
+  "version": {
+    "code": 612622272,
+    "name": "1.0.0",
+    "apk_url": ""
+  }
+}  "cache": {
     "enabled": true,
     "api_url": "https://6942f009858f5.xvest5.ru/brilliant-cdn/api.json",
     "files_url": "https://6942f009858f5.xvest5.ru/brilliant-cdn/files"
