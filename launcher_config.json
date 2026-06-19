@@ -17,8 +17,8 @@
   "servers": [
     {
       "name": "United Ukraine #1",
-      "ip": "91.219.149.29",
-      "port": 1244,
+      "ip": "188.127.241.8",
+      "port": 1493,
       "x2": false,
       "online": 0,
       "maxonline": 50
